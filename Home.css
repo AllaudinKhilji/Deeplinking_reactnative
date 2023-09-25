@@ -1,0 +1,14 @@
+.search-input{
+    height: 2rem;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    background-color: rgba(249, 249, 249, 0.6);
+    color: white;
+    border: none; /* Remove default border */
+    padding: 0.25rem; /* Add padding for better appearance */
+    font-size: 16px;
+    width: 200px; /* Adjust width as needed */
+    ::placeholder {
+      color: white; /* Set placeholder color to white */
+    }
+  }
